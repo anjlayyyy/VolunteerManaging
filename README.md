@@ -72,7 +72,8 @@ No manual refresh needed after registration
 ### For Software:
 
 #### Screenshots 
-
+<<img width="1079" height="1131" alt="image" src="https://github.com/user-attachments/assets/db29f0a2-420e-4672-8c01-66eb66a6dd6d" />
+>
 <img width="1755" height="840" alt="image" src="https://github.com/user-attachments/assets/6a35a140-aa63-4864-b815-068526605c84" />
 
 shows the loading page page
