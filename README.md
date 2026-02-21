@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [VOLUNTEER BUDDY] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [AM HACKS]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [ANJALI P S] - [COLLEGE OF ENGINEERING MUNNAR]
+- Member 2: [MUFLA SHERINE] - [COLLEGE OF ENGINEERING MUNNAR]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://anjlayyyy.github.io/VolunteerManaging/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[VOLENTEER BUDDY helps anyone who needs a hand in help in needy situations.it it can play a vital role in disaster manangement as it connects willing volenteer to those in need ]
 
 ### The Problem statement
-[What problem are you solving?]
+[Not many practical solutions existing to connect volunteers amoung us]
 
 ### The Solution
-[How are you solving it?]
+[A place where anyone can connect to volunteers anytime required ]
 
 ---
 
@@ -31,25 +31,41 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
-
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Languages used: [e.g., JavaScript, HTML, CSS]
+- Frameworks used: [Vue.js(for frontend logic),Tailwind CSS(for styling)]
+- Libraries used: [Animate.css,Axios]
+- Tools used: [ VS Code, Git, terminal/CLI]
+- 
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [👥 Shared Live Database
+
+All users see the same volunteer list
+
+Entries added by one person are visible to others
+
+Centralized storage ensures reliability]
+- Feature 2: [🔍 Search & Filter
+
+Search volunteers by:
+
+Name
+
+Skill (doctor, driver, rescue, etc.)
+
+Location
+
+Helps quickly find the right helper during emergencies]
+- Feature 3: [⚡ Fast Loading
+
+Volunteers load automatically when the page opens
+
+No manual refresh needed after registration]
+-
 
 ---
 
@@ -83,14 +99,17 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1755" height="840" alt="image" src="https://github.com/user-attachments/assets/6a35a140-aa63-4864-b815-068526605c84" />
+](Add screenshot 1 here with proper name)
+*shows the front page*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1755" height="840" alt="image" src="https://github.com/user-attachments/assets/07a37450-0eb3-471c-935e-a1b0a00f90f0" />
+](Add screenshot 2 here with proper name)
+*shows the easy accecibility*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1755" height="840" alt="image" src="https://github.com/user-attachments/assets/7f332fea-3c6d-4357-b0e6-e498cf947ece" />
+](Add screenshot 3 here with proper name)
+*shows the search filter*
 
 #### Diagrams
 
